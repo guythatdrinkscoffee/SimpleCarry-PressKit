@@ -34,7 +34,7 @@ features                                  :
 
   - title                                 : Packs
     description                           : Keep track of all of your packs in one place.
-    fontawesome_icon_name                 : backpack
+    fontawesome_icon_name                 : bag
     
   - title                                 : Gear
     description                           : Add your most used gear in one place to easily add them to any pack.
