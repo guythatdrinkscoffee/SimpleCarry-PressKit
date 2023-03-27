@@ -34,22 +34,22 @@ features                                  :
 
   - title                                 : Packs
     description                           : Keep track of all of your packs in one place.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : backpack
     
   - title                                 : Gear
-    description                           : Add all of the gear to easily add them to any of your packs.
+    description                           : Add your most used gear in one place to easily add them to any pack.
     fontawesome_icon_name                 : wrench
 
   - title                                 : Categories
-    description                           : Add categories to easily categorize your gear.
+    description                           : Custom categories to easily categorize your gear.
     fontawesome_icon_name                 : tags
 
   - title                                 : Charts
     description                           : Get a breakdown of where your gear weight goes.
-    fontawesome_icon_name                 : pie-chart
+    fontawesome_icon_name                 : chart-pie
 
   - title                                 : CSV Exporting
-    description                           : Export your packs into a csv file.
+    description                           : Export your packs into a formatted csv file.
     fontawesome_icon_name                 : table
 
 
